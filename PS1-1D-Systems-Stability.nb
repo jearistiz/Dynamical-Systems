@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[   1444723,      29225]
+NotebookDataLength[   1444722,      29225]
 NotebookOptionsPosition[   1427134,      28708]
-NotebookOutlinePosition[   1427628,      28728]
-CellTagsIndexPosition[   1427585,      28725]
+NotebookOutlinePosition[   1427627,      28728]
+CellTagsIndexPosition[   1427584,      28725]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -28707,7 +28707,7 @@ Cell[TextData[{
 }, Open  ]]
 },
 WindowToolbars->"EditBar",
-WindowSize->{Full, Full},
+WindowSize->{1278, 699},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
 TaggingRules->{"NotebookTemplateVersion" -> 1.},
 CellContext->Notebook,
