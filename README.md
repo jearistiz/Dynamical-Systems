@@ -11,4 +11,5 @@ Textbook: *Nonlinear Dynamics and Chaos* by Steven H. Strogatz, 1st ed.
 2. PS2-Bifurcations.nb : Selected problems. Chapter 2 –Bifurcations
 
 
+
 All corrections and commentaries are welcome.
