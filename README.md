@@ -13,4 +13,4 @@ Textbook: *Nonlinear Dynamics and Chaos* by Steven H. Strogatz, 1st ed.
 3. PS3-Flows-Circle--Linear-Systems.nb: Selected problems. Chapters 4 –Flows on the Line– and 5 –Linear Systems–
 
 
-All corrections and comments are welcome.
+All comments are welcome.
